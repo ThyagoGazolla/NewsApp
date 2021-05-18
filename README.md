@@ -8,4 +8,4 @@ Tecnologias e Linguagens Utilizadas 🖱💻
 
 - Java
 - Android Studio
-- API Free News Api
+- API Free News Api com documentação em: https://free-docs.newscatcherapi.com/
